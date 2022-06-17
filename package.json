@@ -1,0 +1,11 @@
+{
+	"dependencies": {
+		"init": "^0.1.2"
+	},
+	"devDependencies": {
+		"eslint": "^8.17.0",
+		"eslint-config-sonarjs": "^1.0.21",
+		"eslint-plugin-sonarjs": "0.13.0",
+		"prettier": "^2.7.1"
+	}
+}
